@@ -19,8 +19,8 @@
 
 *😄 Pronouns: He/Him
 
-*💡 Skills
-**Programming: Python, JavaScript, HTML/CSS
+💡 Skills
+--Programming: Python, JavaScript, HTML/CSS
 **Cybersecurity: Basic ethical hacking, encryption techniques, and threat analysis
 **Web Development: Responsive design and modern web technologies
 **IoT & Mobile Development: Prototyping and developing connected solutions
